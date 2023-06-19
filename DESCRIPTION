@@ -1,16 +1,15 @@
 Package: ayuda
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Ethan's Toolbox
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Ethan Abercrombie
+Maintainer: abercrombieethan@gmail.com
+Description: An R package with random functions I find useful as a Ph.D. student.
+License: 
 Encoding: UTF-8
 LazyData: true
 Imports: 
     dplyr,
-    enmSdm,
+    enmSdmX,
     sf
 RoxygenNote: 7.2.2
