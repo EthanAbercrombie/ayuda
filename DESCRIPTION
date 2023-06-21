@@ -3,7 +3,7 @@ Type: Package
 Title: Ethan's Toolbox
 Version: 0.1.0
 Author: Ethan Abercrombie
-Maintainer: abercrombieethan@gmail.com
+Maintainer: Ethan Abercrombie <abercrombieethan@gmail.com>
 Description: An R package with random functions I find useful as a Ph.D. student.
 License: 
 Encoding: UTF-8
